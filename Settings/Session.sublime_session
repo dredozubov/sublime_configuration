@@ -1,0 +1,1162 @@
+{
+	"folder_history":
+	[
+		"/Users/dr/workspace/pollster",
+		"/Users/dr/workspace/Algo2",
+		"/Users/dr/trunk/ruby",
+		"/Users/dr/trunk/Python-2.7.3",
+		"/Users/dr/workspace/handbill"
+	],
+	"last_window_id": 6,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"de",
+						"destroyArray"
+					],
+					[
+						"next",
+						"next_with_same_number_of_bits"
+					],
+					[
+						"fro",
+						"from_subset"
+					],
+					[
+						"Bits",
+						"Bits"
+					]
+				]
+			},
+			"build_system": "Packages/C++/C++.sublime-build",
+			"command_palette":
+			{
+				"height": 147.0,
+				"selected_items":
+				[
+					[
+						"git diff",
+						"Git: Diff All"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"rspec",
+						"Set Syntax: RSpec"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"rst",
+						"RST Preview"
+					],
+					[
+						"rst pre",
+						"RST Preview"
+					],
+					[
+						"rst ",
+						"RST Preview"
+					],
+					[
+						"rstpre",
+						"RST Preview"
+					],
+					[
+						"rstpr",
+						"RST Preview"
+					],
+					[
+						"syntax rst",
+						"Set Syntax: reStructuredText"
+					],
+					[
+						"rubytest",
+						"RubyTest: Switch between code and test"
+					],
+					[
+						"",
+						"Bookmarks: Toggle"
+					],
+					[
+						"test",
+						"RubyTest: Show Test Panel"
+					],
+					[
+						"ruby",
+						"RubyTest: Verify Syntax"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pep",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"git diff ",
+						"Git: Diff All"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"git ",
+						"Git: Commit history"
+					],
+					[
+						"packag insta",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Package Control: Add Repository"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/dr/workspace/Algo2/week5/tsp5_test.txt",
+				"/Users/dr/workspace/Algo2/week5/main.c",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+				"/Users/dr/workspace/Algo2/week5/tsp4_test.txt",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Flake8Lint.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Flake8Lint/Flake8Lint.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Flake8Lint/Default (OSX).sublime-keymap",
+				"/Users/dr/workspace/rubymonk/primer/kaprekar_spec.rb",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+				"/Users/dr/workspace/rubymonk/primer/kaprekar.rb",
+				"/Users/dr/workspace/parameters.rb",
+				"/Users/dr/workspace/aesthetic/fabfile.py",
+				"/Users/dr/workspace/rubymonk/primer/spec/karprekar_spec.rb",
+				"/Users/dr/workspace/rubymonk/primer/karprekar_spec.rb",
+				"/Users/dr/workspace/ninjapower/shuriken.rb",
+				"/Users/dr/bin/rvm_ruby.rb",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+				"/Users/dr/workspace/aesthetic/content/fabric.rst",
+				"/Users/dr/workspace/aesthetic/content/sublime-rvm.rst",
+				"/Users/dr/workspace/rubymonk/rubymonk.sublime-project",
+				"/Users/dr/workspace/Algo2/week4/johnson.py",
+				"/Users/dr/workspace/Algo2/week4/bellmanford.py",
+				"/Users/dr/workspace/Algo2/week4/dijkstra.py",
+				"/Users/dr/workspace/handbill/app/controllers/cities_controller.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"1"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"4",
+					"\n  ",
+					"minimum",
+					"create",
+					"subpro",
+					"subproblem",
+					"<<",
+					"%lf",
+					"double",
+					"print_bits",
+					"test(",
+					"Bits",
+					"problem_sets",
+					"print",
+					"tsp",
+					"from_subset",
+					"from_sub",
+					"6",
+					"s_minus_j",
+					"Bits",
+					"print",
+					"rom_s",
+					"Infinity",
+					"join",
+					"float",
+					"'\n",
+					"enl",
+					"ruby",
+					"0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"%f",
+					"float",
+					"  puts \"s[0]: #{s[0]}\"\n",
+					"1\n",
+					"  puts \"s[0]: #{s[0]}\"\n",
+					"1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 218.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"tsp.txt",
+						"week5/tsp.txt"
+					],
+					[
+						"bellman",
+						"/Users/dr/workspace/Algo2/week4/bellmanford.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/Users/dr/workspace/rubymonk/rubymonk.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"openstruct",
+						"openstruct"
+					],
+					[
+						"s",
+						"s	(local, instance)"
+					],
+					[
+						"x",
+						"x	(local, instance)"
+					],
+					[
+						"y",
+						"y	(local, instance)"
+					],
+					[
+						"t",
+						"t"
+					],
+					[
+						"de",
+						"destroyArray"
+					],
+					[
+						"next",
+						"next_with_same_number_of_bits"
+					],
+					[
+						"fro",
+						"from_subset"
+					],
+					[
+						"Bits",
+						"Bits"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/dr/workspace/pollster/helpers.rb",
+					"settings":
+					{
+						"buffer_size": 721,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/views/_multiple_with_input.haml",
+					"settings":
+					{
+						"buffer_size": 300,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/views/_radio.haml",
+					"settings":
+					{
+						"buffer_size": 192,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/views/_text_input.haml",
+					"settings":
+					{
+						"buffer_size": 143,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/views/poll.haml",
+					"settings":
+					{
+						"buffer_size": 391,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/poll.rb",
+					"settings":
+					{
+						"buffer_size": 707,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/polltypes.rb",
+					"settings":
+					{
+						"buffer_size": 1395,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/polls/test.yaml",
+					"settings":
+					{
+						"buffer_size": 1064,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/tests.rb",
+					"settings":
+					{
+						"buffer_size": 1876,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dr/workspace/pollster/pollster.rb",
+					"settings":
+					{
+						"buffer_size": 678,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 107.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"rope",
+						"Rope Refactoring: Rename"
+					],
+					[
+						"rst",
+						"RST Preview"
+					],
+					[
+						"renam",
+						"Rope Refactoring: Rename"
+					],
+					[
+						"synta ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git diff",
+						"Git: Diff All"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"rspec",
+						"Set Syntax: RSpec"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"rst pre",
+						"RST Preview"
+					],
+					[
+						"rst ",
+						"RST Preview"
+					],
+					[
+						"rstpre",
+						"RST Preview"
+					],
+					[
+						"rstpr",
+						"RST Preview"
+					],
+					[
+						"syntax rst",
+						"Set Syntax: reStructuredText"
+					],
+					[
+						"rubytest",
+						"RubyTest: Switch between code and test"
+					],
+					[
+						"",
+						"Bookmarks: Toggle"
+					],
+					[
+						"test",
+						"RubyTest: Show Test Panel"
+					],
+					[
+						"ruby",
+						"RubyTest: Verify Syntax"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pep",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"git diff ",
+						"Git: Diff All"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"git ",
+						"Git: Commit history"
+					],
+					[
+						"packag insta",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Package Control: Add Repository"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/dr/workspace/pollster/views/_multiple.haml",
+				"/Users/dr/workspace/pollster/polls/inclusive_education.yaml",
+				"/Users/dr/workspace/pollster/pollster.rb",
+				"/Users/dr/workspace/pollster/tests.rb",
+				"/Users/dr/workspace/pollster/polls/test.yaml",
+				"/Users/dr/workspace/pollster/views/layout.haml",
+				"/Users/dr/workspace/pollster/views/_input.haml",
+				"/Users/dr/workspace/pollster/views/_checkbox.haml",
+				"/Users/dr/.rvm/gems/ruby-1.9.2-p290@pollster/gems/haml-3.1.7/lib/haml/helpers/action_view_mods.rb",
+				"/Users/dr/workspace/pollster/Gemfile",
+				"/Users/dr/.rvm/gems/ruby-1.9.2-p290@pollster/gems/haml-3.1.7/lib/haml/engine.rb",
+				"/Users/dr/workspace/pollster/config.rb",
+				"/Users/dr/.rvm/gems/ruby-1.9.2-p290@pollster/gems/haml-3.1.7/lib/haml/compiler.rb",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Ruby Haml.sublime-settings",
+				"/Users/dr/.rvm/gems/ruby-1.9.2-p290@pollster/gems/haml-3.1.7/lib/haml/helpers/action_view_extensions.rb",
+				"/Users/dr/workspace/pollster/polltypes.rb",
+				"/Users/dr/workspace/pollster/polls/corrupted.yaml",
+				"/Users/dr/.rvm/gems/ruby-1.9.2-p290@pollster/gems/haml-3.1.7/Rakefile",
+				"/Users/dr/workspace/pollster/run.rb",
+				"/Users/dr/workspace/pollster/poll.rb",
+				"/Users/dr/workspace/pollster/views/poll.haml",
+				"/Users/dr/workspace/pollster/views/tests.rb",
+				"/Users/dr/workspace/pollster/Procfile",
+				"/Users/dr/workspace/pollster/views/about.haml",
+				"/Users/dr/workspace/pollster/public/css/style.css",
+				"/Users/dr/workspace/pollster/static/css/style.css",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/YAML.sublime-settings",
+				"/Users/dr/workspace/pollster/.rvmrc",
+				"/Users/dr/workspace/Algo2/week5/tsp.py",
+				"/Users/dr/workspace/Algo2/week5/tsp.c",
+				"/Users/dr/workspace/Algo2/week6/2sat.py",
+				"/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/random.py",
+				"/Users/dr/workspace/Algo2/week4/bellmanford.py",
+				"/Users/dr/workspace/Algo2/week1/scheduler_div.py",
+				"/Users/dr/workspace/Algo2/week3/knapsack.py",
+				"/Users/dr/workspace/Algo2/week4/floydwarshall.py",
+				"/Users/dr/workspace/Algo2/week6/2sat_test_satisfiable.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat6.txt",
+				"/Users/dr/workspace/aesthetic/content/union-find.rst",
+				"/Users/dr/workspace/Algo2/week3/obst.c",
+				"/Users/dr/workspace/Algo2/week6/2sat4.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat3.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat2.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat1.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat_test_unsatisfiable.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat_test_satisfiable2.txt",
+				"/Users/dr/workspace/Algo2/week6/2sat_test.txt",
+				"/Users/dr/workspace/Algo2/week5/tsp5_test.txt",
+				"/Users/dr/workspace/Algo2/week5/tsp.txt",
+				"/Users/dr/workspace/Algo2/week5/tsp4_test.txt",
+				"/Users/dr/workspace/odesk_python/odesk6_python.py",
+				"/Users/dr/workspace/odesk_python/odesk7_python.py",
+				"/Users/dr/workspace/odesk_python/odesk8_python.py",
+				"/Users/dr/workspace/odesk_python/odesk9_python.py",
+				"/Users/dr/workspace/odesk_python/odesk10_python.py",
+				"/Users/dr/workspace/odesk_python/odesk2_python.py",
+				"/Users/dr/workspace/odesk_python/odesk3_python.py",
+				"/Users/dr/workspace/odesk_python/odesk4_python.py",
+				"/Users/dr/workspace/odesk_python/odesk5_python.py",
+				"/Users/dr/workspace/odesk_python/odesk_python1.py",
+				"/Users/dr/Desktop/courses-ID.xml",
+				"/Users/dr/Desktop/course.dtd",
+				"/Users/dr/workspace/Algo2/week5/main.c",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Flake8Lint.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Flake8Lint/Flake8Lint.sublime-settings",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Flake8Lint/Default (OSX).sublime-keymap",
+				"/Users/dr/workspace/rubymonk/primer/kaprekar_spec.rb",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+				"/Users/dr/workspace/rubymonk/primer/kaprekar.rb",
+				"/Users/dr/workspace/parameters.rb",
+				"/Users/dr/workspace/aesthetic/fabfile.py",
+				"/Users/dr/workspace/rubymonk/primer/spec/karprekar_spec.rb",
+				"/Users/dr/workspace/rubymonk/primer/karprekar_spec.rb",
+				"/Users/dr/workspace/ninjapower/shuriken.rb",
+				"/Users/dr/bin/rvm_ruby.rb",
+				"/Users/dr/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+				"/Users/dr/workspace/aesthetic/content/fabric.rst",
+				"/Users/dr/workspace/aesthetic/content/sublime-rvm.rst",
+				"/Users/dr/workspace/rubymonk/rubymonk.sublime-project",
+				"/Users/dr/workspace/Algo2/week4/johnson.py",
+				"/Users/dr/workspace/Algo2/week4/dijkstra.py",
+				"/Users/dr/workspace/handbill/app/controllers/cities_controller.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"1"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"logger",
+					"haml",
+					"partial",
+					"def render",
+					"product",
+					"pro",
+					"permu",
+					"tarjan",
+					"print",
+					"current",
+					"add",
+					"    vertices.add(v)\n                vertices.add(-1*v)",
+					"add",
+					"set(",
+					"strip",
+					"print",
+					"4",
+					"\n  ",
+					"minimum",
+					"create",
+					"subpro",
+					"subproblem",
+					"<<",
+					"%lf",
+					"double",
+					"print_bits",
+					"test(",
+					"Bits",
+					"problem_sets",
+					"print",
+					"tsp",
+					"from_subset",
+					"from_sub",
+					"6",
+					"s_minus_j",
+					"Bits",
+					"print",
+					"rom_s",
+					"Infinity",
+					"join",
+					"float",
+					"'\n",
+					"enl",
+					"ruby",
+					"0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"kosaraju",
+					"append",
+					"",
+					"%f",
+					"float",
+					"  puts \"s[0]: #{s[0]}\"\n",
+					"1\n",
+					"  puts \"s[0]: #{s[0]}\"\n",
+					"1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/dr/workspace/pollster/helpers.rb",
+							"settings":
+							{
+								"buffer_size": 721,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										711,
+										711
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/dr/workspace/pollster/views/_multiple_with_input.haml",
+							"settings":
+							{
+								"buffer_size": 300,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										221,
+										221
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/dr/workspace/pollster/views/_radio.haml",
+							"settings":
+							{
+								"buffer_size": 192,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										192,
+										192
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/dr/workspace/pollster/views/_text_input.haml",
+							"settings":
+							{
+								"buffer_size": 143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										91,
+										91
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/dr/workspace/pollster/views/poll.haml",
+							"settings":
+							{
+								"buffer_size": 391,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										285,
+										285
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/dr/workspace/pollster/poll.rb",
+							"settings":
+							{
+								"buffer_size": 707,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										282,
+										282
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/dr/workspace/pollster/polltypes.rb",
+							"settings":
+							{
+								"buffer_size": 1395,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										484,
+										484
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 123.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/dr/workspace/pollster/polls/test.yaml",
+							"settings":
+							{
+								"buffer_size": 1064,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/dr/workspace/pollster/tests.rb",
+							"settings":
+							{
+								"buffer_size": 1876,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										376,
+										376
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 156.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/dr/workspace/pollster/pollster.rb",
+							"settings":
+							{
+								"buffer_size": 678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										317,
+										317
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 218.0
+			},
+			"position": "0 180 1440 698 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"tsp.txt",
+						"week5/tsp.txt"
+					],
+					[
+						"bellman",
+						"/Users/dr/workspace/Algo2/week4/bellmanford.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/Users/dr/workspace/rubymonk/rubymonk.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 5,
+			"workspace_name": "/Users/dr/workspace/sublime-projects/pollster.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/dr/workspace/sublime-projects/pollster.sublime-project",
+			"/Users/dr/workspace/sublime-projects/Algo2.sublime-project",
+			"/Users/dr/workspace/sublime-projects/python2.7.3.sublime-project",
+			"/Users/dr/workspace/rubymonk/primer/Algo2.sublime-project",
+			"/Users/dr/workspace/rubymonk/rubymonk.sublime-project",
+			"/Users/dr/workspace/sublime-projects/ruby.sublime-project"
+		]
+	}
+}
